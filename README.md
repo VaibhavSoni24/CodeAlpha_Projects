@@ -1,2 +1,29 @@
-# CodeAlpha_Projects
-This repository contains the codes and projects from my Java Programming Internship at CodeAlpha (Dec 2024 – Mar 2025). It showcases my learning and application of core Java, OOP principles, data structures, algorithms, and real-world projects, reflecting my growth and hands-on experience.
+Java Programming Internship - CodeAlpha (Dec 2024 - Mar 2025)
+
+Welcome to the repository for my Java Programming Internship at CodeAlpha, spanning from 10th December 2024 to 10th March 2025.
+
+--Repository Overview--
+
+This repository serves as a collection of all the projects, assignments, and practice exercises completed during the internship. The focus is on gaining hands-on experience, mastering Java concepts, and developing practical programming skills.
+
+--Contents--
+
+Core Java Programs: Fundamental Java concepts and algorithms.
+
+Object-Oriented Programming (OOPs): Implementation of OOP principles such as inheritance, polymorphism, encapsulation, and abstraction.
+
+Data Structures and Algorithms: Java-based implementations of common data structures and algorithms.
+
+Real-World Projects: End-to-end projects showcasing problem-solving skills and Java development.
+
+Learning Notes: Documentation of key learnings and insights during the internship.
+
+--Purpose--
+
+This repository highlights my progress throughout the internship and serves as a resource for future reference. Feel free to explore the code, suggest improvements, and provide feedback.
+
+--Get in Touch--
+
+If you have any questions or suggestions, feel free to connect with me on LinkedIn or reach out through this repository.
+
+Let’s code, learn, and grow! 🌟
