@@ -1,3 +1,5 @@
+// This is the code of the first task as a Java Intern from CodeAlpha
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
